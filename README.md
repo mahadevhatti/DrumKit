@@ -13,3 +13,11 @@
 - CSS
 - Javascript
 - DOM
+
+
+<hr /> 
+<br />
+<br />
+ 
+ ## Link for the final website : 
+This site is Published @ [GitHub Pages](https://mahadevhatti.github.io/DrumKit.github.io/). 
